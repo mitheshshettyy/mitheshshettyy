@@ -23,14 +23,6 @@
 
 ---
 
-## 🎯 Goals
-- Become a strong software engineer with deep fundamentals  
-- Build meaningful tech that solves real problems  
-- Contribute to impactful projects and collaborations  
-- Keep learning, building, and improving every day  
-
----
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithesh-shetty030/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=shettymithesh030@gmail.com)
