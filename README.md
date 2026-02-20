@@ -17,7 +17,7 @@
 
 ## 🚀 What I'm Working On
 - Strengthening **Data Structures & Algorithms**
-- Learning **Python** for problem solving and ML foundations
+- Learning **Python** for ML foundations
 - Exploring **databases, system design, and low-level programming**
 - Turning ideas into practical, impactful projects
 
