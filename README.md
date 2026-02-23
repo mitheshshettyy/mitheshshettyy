@@ -10,15 +10,15 @@
 
 ## 🎓 About Me
 - Passionate about **problem solving, algorithms, and real-world tech**
-- Exploring **Web Development, Machine Learning, and System Fundamentals**
-- Curious about how things work **under the hood**
+- Exploring **Web Development, Machine Learning, and DevOps**
+- Curious about how things work **in real-world systems and workflows**
 
 ---
 
 ## 🚀 What I'm Working On
 - Strengthening **Data Structures & Algorithms**
 - Learning **Python** for ML foundations
-- Exploring **databases, system design, and low-level programming**
+- Exploring **databases and DevOps practices**
 - Turning ideas into practical, impactful projects
 
 ---
