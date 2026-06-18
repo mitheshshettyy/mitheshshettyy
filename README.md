@@ -73,16 +73,3 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 </p>
 
 ---
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitheshshettyy&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitheshshettyy&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitheshshettyy&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
