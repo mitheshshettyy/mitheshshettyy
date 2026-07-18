@@ -78,3 +78,10 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 </p>
 
 ---
+
+<div align="right">
+
+> *"You can sleep when you die."*  
+> **— Max Verstappen**
+
+</div>
