@@ -1,6 +1,8 @@
-#                                                                  Mithesh R Shetty
+<h1 align="center">Mithesh R Shetty</h1>
 
+<p align="center">
 Computer Science and Engineering undergraduate with a keen interest in algorithms, software development, and modern DevOps workflows. Committed to continuous improvement through practical projects and technical learning. Currently seeking opportunities to learn, collaborate, and contribute as a software engineering intern or fresher.
+</p>
 
 ---
 
@@ -8,7 +10,7 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 
 <p align="left">
   <a href="https://mithesh-portfolio-kohl.vercel.app/" target="_blank">
-   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mithesh-shetty030/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -40,7 +42,7 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 
 ---
 
-## 🌍 Web Technologies
+## Web Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -57,10 +59,10 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 
 ## Databases
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
@@ -72,16 +74,31 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=auto" alt="Render" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
+## GitHub Stats
+
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitheshshettyy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" /> 
+</p>
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitheshshettyy&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+
+---
+
 <div align="right">
 
-> *"You can sleep when you die."*  
+> *"You can sleep when you die."*
 > **— Max Verstappen**
 
 </div>
