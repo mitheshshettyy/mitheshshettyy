@@ -81,21 +81,6 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 
 ---
 
-## GitHub Stats
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitheshshettyy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" /> 
-</p>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitheshshettyy&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
-
----
-
 <div align="right">
 
 > *"You can sleep when you die."*
