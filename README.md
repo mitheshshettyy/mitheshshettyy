@@ -81,6 +81,20 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 
 ---
 
+## GitHub Analytics
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mitheshshettyy&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitheshshettyy&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+--- 
+
 <div align="right">
 
 > *"You can sleep when you die."*
