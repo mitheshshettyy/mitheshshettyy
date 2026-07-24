@@ -84,9 +84,8 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mitheshshettyy&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-  </a>
+  <img width="54%" src="https://streak-stats.demolab.com?user=mitheshshettyy&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitheshshettyy&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -97,7 +96,9 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 
 <div align="right">
 
-> *"You can sleep when you die."*
+> *"You can sleep when you die."*  
 > **— Max Verstappen**
 
 </div>
+
+---
