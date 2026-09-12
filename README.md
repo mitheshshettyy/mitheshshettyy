@@ -65,10 +65,6 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitheshshettyy&theme=github_dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitheshshettyy&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 <div align="right">
