@@ -9,7 +9,7 @@ Computer Science and Engineering undergraduate with a keen interest in algorithm
 ## Connect With Me
 
 <p align="left">
-  <a href="https://mithesh-portfolio-kohl.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
+  <a href="https://mitheshshetty.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a> •
   <a href="https://www.linkedin.com/in/mithesh-shetty030/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
   <a href="https://leetcode.com/u/MitheshShettyy/" target="_blank" rel="noopener noreferrer">LeetCode</a> •
   <a href="mailto:shettymithesh030@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
